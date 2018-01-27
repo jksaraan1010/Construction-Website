@@ -1,0 +1,93 @@
+
+body{background-color: #e6e6fa;color: #191970;
+font-family:Arial,Verdana,sans-serif;}
+
+.bannertablewhite {background-color: white;    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.tables {
+ background-color: white;}
+
+.texts {font-size: 1em;}
+
+.banner {background-color: white; color: Green;
+line-height:200%;
+font-size: 3em;
+font-family: Georgia, "Times New Roman", serif;
+text-shadow: 3px 13px 5px #CCCCCC;
+text-align: center;
+font-weight: bold;}
+
+.footer {font-size: 1em;
+font-family: Georgia, "Times New Roman", serif;
+text-shadow: 3px 13px 5px #CCCCCC;
+text-align: center;
+}
+
+.imagedisplay {style="display: inline;"}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+
+h3 {background-color: #aeaed4; color: #191970;
+font-family: Georgia, "Times New Roman", serif;
+;}
+
+p{font-size: 1em;
+text-indent: 3em;}
+
+nav{font-weight:bold;}
+
+.feature{color:C70000;}
+
+footer{color: #333333;
+	font-size: .75em;
+	font-style:italic;}
+
+.company{font-weight:bold;
+	font-fmaily:Georgia, "Times New Roman", serif;
+	font-size:1.25em;}
+
+#wrapper{margin-left:auto;
+	margin-right:auto;
+	width: 80%;}
+
+h1{padding:15px;}
+border-bottom: 2px dashed #191970;
+border-top:thin solid #aeaed4;
+padding top: 10px;
+color: #333333;
+
+
+
